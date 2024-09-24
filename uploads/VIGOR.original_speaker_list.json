@@ -1,0 +1,1122 @@
+[{
+  "_id": {
+    "$oid": "660682c7e17363cf91797dac"
+  },
+  "filepath": "TRAINING_FILES/ramu.wav",
+  "added_on": {
+    "$date": "2024-03-29T08:58:47.325Z"
+  },
+  "audio_length": "1:21 mins",
+  "duration_sec": 81.29764172335601,
+  "filename": "ramu.wav",
+  "speaker_name": "ramu",
+  "current_user_name": "E1",
+  "Target_number": "8500929179"
+},
+{
+  "_id": {
+    "$oid": "660686a0e17363cf91797ded"
+  },
+  "filepath": "TRAINING_FILES/Surpanch2.wav",
+  "added_on": {
+    "$date": "2024-03-29T09:15:12.063Z"
+  },
+  "audio_length": "0:24 mins",
+  "duration_sec": 24.32702947845805,
+  "filename": "Surpanch2.wav",
+  "speaker_name": "Surpanch2",
+  "current_user_name": "E10",
+  "Target_number": "8328315890"
+},
+{
+  "_id": {
+    "$oid": "660686d7e17363cf91797df4"
+  },
+  "filepath": "TRAINING_FILES/kbabu.wav",
+  "added_on": {
+    "$date": "2024-03-29T09:16:07.534Z"
+  },
+  "audio_length": "0:08 mins",
+  "duration_sec": 8.740907029478459,
+  "filename": "kbabu.wav",
+  "speaker_name": "kbabu",
+  "current_user_name": "E10",
+  "Target_number": "8985673875"
+},
+{
+  "_id": {
+    "$oid": "660689cee17363cf91797e1f"
+  },
+  "filepath": "TRAINING_FILES/RAMESHSY.wav",
+  "added_on": {
+    "$date": "2024-03-29T09:28:46.625Z"
+  },
+  "audio_length": "3:42 mins",
+  "duration_sec": 222.4790022675737,
+  "filename": "RAMESHSY.wav",
+  "speaker_name": "RAMESHSY",
+  "current_user_name": "E2",
+  "Target_number": "8328268415"
+},
+{
+  "_id": {
+    "$oid": "660682f4e17363cf91797db0"
+  },
+  "filepath": "TRAINING_FILES/ramana.wav",
+  "added_on": {
+    "$date": "2024-03-29T08:59:32.915Z"
+  },
+  "audio_length": "0:58 mins",
+  "duration_sec": 58.031519274376414,
+  "filename": "ramana.wav",
+  "speaker_name": "ramana",
+  "current_user_name": "E1",
+  "Target_number": "9440715741"
+},
+{
+  "_id": {
+    "$oid": "6606901ee17363cf91797e47"
+  },
+  "filepath": "TRAINING_FILES/Ajith.wav",
+  "added_on": {
+    "$date": "2024-03-29T09:55:42.875Z"
+  },
+  "audio_length": "1:09 mins",
+  "duration_sec": 69.86303854875284,
+  "filename": "Ajith.wav",
+  "speaker_name": "Ajith",
+  "current_user_name": "E8",
+  "Target_number": "8332938565"
+},
+{
+  "_id": {
+    "$oid": "660693c8e17363cf91797e7f"
+  },
+  "filepath": "TRAINING_FILES/Subbarao1.wav",
+  "added_on": {
+    "$date": "2024-03-29T10:11:20.662Z"
+  },
+  "audio_length": "1:10 mins",
+  "duration_sec": 70.97287981859411,
+  "filename": "Subbarao1.wav",
+  "speaker_name": "Subbarao1",
+  "current_user_name": "E8",
+  "Target_number": "8984687429"
+},
+{
+  "_id": {
+    "$oid": "660691d4e17363cf91797e60"
+  },
+  "filepath": "TRAINING_FILES/Raju1.wav",
+  "added_on": {
+    "$date": "2024-03-29T10:03:00.213Z"
+  },
+  "audio_length": "1:09 mins",
+  "duration_sec": 69.62938775510204,
+  "filename": "Raju1.wav",
+  "speaker_name": "Raju1",
+  "current_user_name": "E8",
+  "Target_number": "8919744392"
+},
+{
+  "_id": {
+    "$oid": "66069960e17363cf91797eda"
+  },
+  "filepath": "TRAINING_FILES/Bujjibabu.wav",
+  "added_on": {
+    "$date": "2024-03-29T10:35:12.236Z"
+  },
+  "audio_length": "3:00 mins",
+  "duration_sec": 104.99637188208617,
+  "filename": "Bujjibabu.wav",
+  "speaker_name": "Bujjibabu",
+  "current_user_name": "E9",
+  "Target_number": "9381194849"
+},
+{
+  "_id": {
+    "$oid": "6606a3f1e17363cf91797f95"
+  },
+  "filepath": "TRAINING_FILES/AZAD.wav",
+  "added_on": {
+    "$date": "2024-03-29T11:20:17.095Z"
+  },
+  "audio_length": "0:12 mins",
+  "duration_sec": 12.550657596371883,
+  "filename": "AZAD.wav",
+  "speaker_name": "AZAD",
+  "current_user_name": "E14",
+  "Target_number": "8332019275"
+},
+{
+  "_id": {
+    "$oid": "6607abeee17363cf917981c6"
+  },
+  "filepath": "TRAINING_FILES/Raviteja.wav",
+  "added_on": {
+    "$date": "2024-03-30T06:06:38.069Z"
+  },
+  "audio_length": "2:31 mins",
+  "duration_sec": 151.84775510204082,
+  "filename": "Raviteja.wav",
+  "speaker_name": "Raviteja",
+  "current_user_name": "L8",
+  "Target_number": "9493919090"
+},
+{
+  "_id": {
+    "$oid": "6607a0f5e17363cf9179813f"
+  },
+  "filepath": "TRAINING_FILES/gs1.wav",
+  "added_on": {
+    "$date": "2024-03-30T05:19:49.109Z"
+  },
+  "audio_length": "1:19 mins",
+  "duration_sec": 79.6,
+  "filename": "gs1.wav",
+  "speaker_name": "gs1",
+  "current_user_name": "L3",
+  "Target_number": "7382337780"
+},
+{
+  "_id": {
+    "$oid": "66079c0be17363cf9179810a"
+  },
+  "filepath": "TRAINING_FILES/SureshAnkadelli.wav",
+  "added_on": {
+    "$date": "2024-03-30T04:58:51.027Z"
+  },
+  "audio_length": "3:27 mins",
+  "duration_sec": 207.49591836734695,
+  "filename": "SureshAnkadelli.wav",
+  "speaker_name": "SureshAnkadelli",
+  "current_user_name": "E3",
+  "Target_number": "7675090643"
+},
+{
+  "_id": {
+    "$oid": "6607ac5be17363cf917981cd"
+  },
+  "filepath": "TRAINING_FILES/Ramesh1.wav",
+  "added_on": {
+    "$date": "2024-03-30T06:08:27.459Z"
+  },
+  "audio_length": "2:19 mins",
+  "duration_sec": 139.52126984126983,
+  "filename": "Ramesh1.wav",
+  "speaker_name": "Ramesh1",
+  "current_user_name": "L8",
+  "Target_number": "8309918433"
+},
+{
+  "_id": {
+    "$oid": "6607acc3e17363cf917981d4"
+  },
+  "filepath": "TRAINING_FILES/Lakshmi.wav",
+  "added_on": {
+    "$date": "2024-03-30T06:10:11.807Z"
+  },
+  "audio_length": "4:45 mins",
+  "duration_sec": 285.2061678004535,
+  "filename": "Lakshmi.wav",
+  "speaker_name": "Lakshmi",
+  "current_user_name": "L8",
+  "Target_number": "7674095419"
+},
+{
+  "_id": {
+    "$oid": "6607b36ee17363cf91798217"
+  },
+  "filepath": "TRAINING_FILES/Mukesh3.wav",
+  "added_on": {
+    "$date": "2024-03-30T06:38:38.206Z"
+  },
+  "audio_length": "0:34 mins",
+  "duration_sec": 34.52176870748299,
+  "filename": "Mukesh3.wav",
+  "speaker_name": "Mukesh3",
+  "current_user_name": "L1",
+  "Target_number": "9399801533"
+},
+{
+  "_id": {
+    "$oid": "6607b902e17363cf91798283"
+  },
+  "filepath": "TRAINING_FILES/joga.wav",
+  "added_on": {
+    "$date": "2024-03-30T07:02:26.777Z"
+  },
+  "audio_length": "0:53 mins",
+  "duration_sec": 53.98975056689343,
+  "filename": "joga.wav",
+  "speaker_name": "joga",
+  "current_user_name": "L10",
+  "Target_number": "9691237540"
+},
+{
+  "_id": {
+    "$oid": "6607bd0de17363cf917982dc"
+  },
+  "filepath": "TRAINING_FILES/Ravi_chandra1.wav",
+  "added_on": {
+    "$date": "2024-03-30T07:19:41.262Z"
+  },
+  "audio_length": "0:54 mins",
+  "duration_sec": 54.80866213151928,
+  "filename": "Ravi_chandra1.wav",
+  "speaker_name": "Ravi_chandra1",
+  "current_user_name": "L5",
+  "Target_number": "9848333926"
+},
+{
+  "_id": {
+    "$oid": "6607f2aae17363cf917983d8"
+  },
+  "filepath": "TRAINING_FILES/dharmula3.wav",
+  "added_on": {
+    "$date": "2024-03-30T11:08:26.085Z"
+  },
+  "audio_length": "1:07 mins",
+  "duration_sec": 67.35251700680273,
+  "filename": "dharmula3.wav",
+  "speaker_name": "dharmula3",
+  "current_user_name": "L11",
+  "Target_number": "9346780275"
+},
+{
+  "_id": {
+    "$oid": "660810c2e17363cf9179852b"
+  },
+  "filepath": "TRAINING_FILES/TipperSrinuu.wav",
+  "added_on": {
+    "$date": "2024-03-30T13:16:50.705Z"
+  },
+  "audio_length": "9:20 mins",
+  "duration_sec": 114.50013605442177,
+  "filename": "TipperSrinuu.wav",
+  "speaker_name": "TipperSrinuu",
+  "current_user_name": "E3",
+  "Target_number": "8895841879"
+},
+{
+  "_id": {
+    "$oid": "660a5b4de17363cf917985a7"
+  },
+  "filepath": "TRAINING_FILES/Sagar5.wav",
+  "added_on": {
+    "$date": "2024-04-01T06:59:25.785Z"
+  },
+  "audio_length": "1:24 mins",
+  "duration_sec": 84.52312925170068,
+  "filename": "Sagar5.wav",
+  "speaker_name": "Sagar5",
+  "current_user_name": "L5",
+  "Target_number": "9063467469"
+},
+{
+  "_id": {
+    "$oid": "660a600ee17363cf917985b8"
+  },
+  "filepath": "TRAINING_FILES/EramaiahChukkalapadu.wav",
+  "added_on": {
+    "$date": "2024-04-01T07:19:42.352Z"
+  },
+  "audio_length": "0:36 mins",
+  "duration_sec": 36.05079365079365,
+  "filename": "EramaiahChukkalapadu.wav",
+  "speaker_name": "EramaiahChukkalapadu",
+  "current_user_name": "E13",
+  "Target_number": "8309764561"
+},
+{
+  "_id": {
+    "$oid": "660a8763e17363cf91798615"
+  },
+  "filepath": "TRAINING_FILES/VIvek1.wav",
+  "added_on": {
+    "$date": "2024-04-01T10:07:31.625Z"
+  },
+  "audio_length": "1:18 mins",
+  "duration_sec": 78.86353741496599,
+  "filename": "VIvek1.wav",
+  "speaker_name": "VIvek1",
+  "current_user_name": "S5",
+  "Target_number": "8807567249"
+},
+{
+  "_id": {
+    "$oid": "660a99f2e17363cf91798685"
+  },
+  "filepath": "TRAINING_FILES/CKgopalan1.wav",
+  "added_on": {
+    "$date": "2024-04-01T11:26:42.669Z"
+  },
+  "audio_length": "0:22 mins",
+  "duration_sec": 22.492789115646257,
+  "filename": "CKgopalan1.wav",
+  "speaker_name": "CKgopalan1",
+  "current_user_name": "S2",
+  "Target_number": "9207953642"
+},
+{
+  "_id": {
+    "$oid": "660a9937e17363cf9179867b"
+  },
+  "filepath": "TRAINING_FILES/SHyna1.wav",
+  "added_on": {
+    "$date": "2024-04-01T11:23:35.315Z"
+  },
+  "audio_length": "1:33 mins",
+  "duration_sec": 93.58326530612244,
+  "filename": "SHyna1.wav",
+  "speaker_name": "SHyna1",
+  "current_user_name": "S2",
+  "Target_number": "7305527845"
+},
+{
+  "_id": {
+    "$oid": "660a887be17363cf9179861f"
+  },
+  "filepath": "TRAINING_FILES/VEeramani.wav",
+  "added_on": {
+    "$date": "2024-04-01T10:12:11.513Z"
+  },
+  "audio_length": "0:50 mins",
+  "duration_sec": 50.13451247165533,
+  "filename": "VEeramani.wav",
+  "speaker_name": "VEeramani",
+  "current_user_name": "S5",
+  "Target_number": "7795417329"
+},
+{
+  "_id": {
+    "$oid": "660a9aa1e17363cf9179868f"
+  },
+  "filepath": "TRAINING_FILES/VEera.wav",
+  "added_on": {
+    "$date": "2024-04-01T11:29:37.498Z"
+  },
+  "audio_length": "0:18 mins",
+  "duration_sec": 18.74204081632653,
+  "filename": "VEera.wav",
+  "speaker_name": "VEera",
+  "current_user_name": "S3",
+  "Target_number": "7842136457"
+},
+{
+  "_id": {
+    "$oid": "6607b7d4e17363cf9179826f"
+  },
+  "filepath": "TRAINING_FILES/Bheema.wav",
+  "added_on": {
+    "$date": "2024-03-30T06:57:24.240Z"
+  },
+  "audio_length": "1:17 mins",
+  "duration_sec": 77.01727891156463,
+  "filename": "Bheema.wav",
+  "speaker_name": "Bheema",
+  "current_user_name": "L10",
+  "Target_number": "6263482018"
+},
+{
+  "_id": {
+    "$oid": "660a9c99e17363cf917986ab"
+  },
+  "filepath": "TRAINING_FILES/VS2.wav",
+  "added_on": {
+    "$date": "2024-04-01T11:38:01.623Z"
+  },
+  "audio_length": "1:06 mins",
+  "duration_sec": 66.46027210884354,
+  "filename": "VS2.wav",
+  "speaker_name": "VS2",
+  "current_user_name": "S3",
+  "Target_number": "7842421681"
+},
+{
+  "_id": {
+    "$oid": "660bdb4eecd3b2bfa6d0ab9a"
+  },
+  "filepath": "TRAINING_FILES/Kosa1.wav",
+  "added_on": {
+    "$date": "2024-04-02T10:17:50.275Z"
+  },
+  "audio_length": "0:44 mins",
+  "duration_sec": 44.70340136054422,
+  "filename": "Kosa1.wav",
+  "speaker_name": "Kosa1",
+  "current_user_name": "L7",
+  "Target_number": "7288849910"
+},
+{
+  "_id": {
+    "$oid": "660bdcdeecd3b2bfa6d0abb8"
+  },
+  "filepath": "TRAINING_FILES/Sk3.wav",
+  "added_on": {
+    "$date": "2024-04-02T10:24:30.473Z"
+  },
+  "audio_length": "1:57 mins",
+  "duration_sec": 117.43814058956916,
+  "filename": "Sk3.wav",
+  "speaker_name": "Sk3",
+  "current_user_name": "L7",
+  "Target_number": "7337519811"
+},
+{
+  "_id": {
+    "$oid": "66080835e17363cf917984ec"
+  },
+  "filepath": "TRAINING_FILES/Javid.wav",
+  "added_on": {
+    "$date": "2024-03-30T12:40:21.861Z"
+  },
+  "audio_length": "2:07 mins",
+  "duration_sec": 127.64095238095238,
+  "filename": "Javid.wav",
+  "speaker_name": "Javid",
+  "current_user_name": "E9",
+  "Target_number": "9490816628"
+},
+{
+  "_id": {
+    "$oid": "660bdbdbecd3b2bfa6d0aba9"
+  },
+  "filepath": "TRAINING_FILES/Muda.wav",
+  "added_on": {
+    "$date": "2024-04-02T10:20:11.770Z"
+  },
+  "audio_length": "2:07 mins",
+  "duration_sec": 127.95714285714286,
+  "filename": "Muda.wav",
+  "speaker_name": "Muda",
+  "current_user_name": "L7",
+  "Target_number": "9346615782"
+},
+{
+  "_id": {
+    "$oid": "660be3f7ecd3b2bfa6d0abef"
+  },
+  "filepath": "TRAINING_FILES/HAriharasharma3.wav",
+  "added_on": {
+    "$date": "2024-04-02T10:54:47.808Z"
+  },
+  "audio_length": "1:33 mins",
+  "duration_sec": 93.87238095238095,
+  "filename": "HAriharasharma3.wav",
+  "speaker_name": "HAriharasharma3",
+  "current_user_name": "S2",
+  "Target_number": "9496916906"
+},
+{
+  "_id": {
+    "$oid": "660be61cecd3b2bfa6d0ac11"
+  },
+  "filepath": "TRAINING_FILES/VAlarmathi2.wav",
+  "added_on": {
+    "$date": "2024-04-02T11:03:56.895Z"
+  },
+  "audio_length": "1:05 mins",
+  "duration_sec": 65.6637641723356,
+  "filename": "VAlarmathi2.wav",
+  "speaker_name": "VAlarmathi2",
+  "current_user_name": "S5",
+  "Target_number": "8056101053"
+},
+{
+  "_id": {
+    "$oid": "660be168ecd3b2bfa6d0abeb"
+  },
+  "filepath": "TRAINING_FILES/Manasa2.wav",
+  "added_on": {
+    "$date": "2024-04-02T10:43:52.709Z"
+  },
+  "audio_length": "0:38 mins",
+  "duration_sec": 38.007664399092974,
+  "filename": "Manasa2.wav",
+  "speaker_name": "Manasa2",
+  "current_user_name": "L9",
+  "Target_number": "9912487690"
+},
+{
+  "_id": {
+    "$oid": "660bf4bbecd3b2bfa6d0ac4e"
+  },
+  "filepath": "TRAINING_FILES/MANoja.wav",
+  "added_on": {
+    "$date": "2024-04-02T12:06:19.966Z"
+  },
+  "audio_length": "0:56 mins",
+  "duration_sec": 56.16766439909297,
+  "filename": "MANoja.wav",
+  "speaker_name": "MANoja",
+  "current_user_name": "S1",
+  "Target_number": "9347463473"
+},
+{
+  "_id": {
+    "$oid": "660aa44de17363cf917986f9"
+  },
+  "filepath": "TRAINING_FILES/SAnjay1.wav",
+  "added_on": {
+    "$date": "2024-04-01T12:10:53.077Z"
+  },
+  "audio_length": "0:38 mins",
+  "duration_sec": 38.15151927437642,
+  "filename": "SAnjay1.wav",
+  "speaker_name": "SAnjay1",
+  "current_user_name": "S4",
+  "Target_number": "8863094972"
+},
+{
+  "_id": {
+    "$oid": "6607ff51e17363cf9179848e"
+  },
+  "filepath": "TRAINING_FILES/Madakam1.wav",
+  "added_on": {
+    "$date": "2024-03-30T12:02:25.930Z"
+  },
+  "audio_length": "3:01 mins",
+  "duration_sec": 181.19151927437642,
+  "filename": "Madakam1.wav",
+  "speaker_name": "Madakam1",
+  "current_user_name": "L10",
+  "Target_number": "6268372746"
+},
+{
+  "_id": {
+    "$oid": "660beb66ecd3b2bfa6d0ac2f"
+  },
+  "filepath": "TRAINING_FILES/RAjaram.wav",
+  "added_on": {
+    "$date": "2024-04-02T11:26:30.625Z"
+  },
+  "audio_length": "1:11 mins",
+  "duration_sec": 71.70770975056689,
+  "filename": "RAjaram.wav",
+  "speaker_name": "RAjaram",
+  "current_user_name": "S3",
+  "Target_number": "7893890633"
+},
+{
+  "_id": {
+    "$oid": "6607c347e17363cf9179832d"
+  },
+  "filepath": "TRAINING_FILES/santosh1.wav",
+  "added_on": {
+    "$date": "2024-03-30T07:46:15.128Z"
+  },
+  "audio_length": "0:55 mins",
+  "duration_sec": 55.19528344671202,
+  "filename": "santosh1.wav",
+  "speaker_name": "santosh1",
+  "current_user_name": "L9",
+  "Target_number": "7803040254"
+},
+{
+  "_id": {
+    "$oid": "6607f3ece17363cf917983e9"
+  },
+  "filepath": "TRAINING_FILES/praveen5.wav",
+  "added_on": {
+    "$date": "2024-03-30T11:13:48.009Z"
+  },
+  "audio_length": "1:18 mins",
+  "duration_sec": 78.68975056689342,
+  "filename": "praveen5.wav",
+  "speaker_name": "praveen5",
+  "current_user_name": "L11",
+  "Target_number": "8309910067"
+},
+{
+  "_id": {
+    "$oid": "6608037ae17363cf917984ad"
+  },
+  "filepath": "TRAINING_FILES/Jayanthi.wav",
+  "added_on": {
+    "$date": "2024-03-30T12:20:10.039Z"
+  },
+  "audio_length": "0:48 mins",
+  "duration_sec": 48.78539682539682,
+  "filename": "Jayanthi.wav",
+  "speaker_name": "Jayanthi",
+  "current_user_name": "E3",
+  "Target_number": "8763912716"
+},
+{
+  "_id": {
+    "$oid": "6607bc4ce17363cf917982cc"
+  },
+  "filepath": "TRAINING_FILES/prasad2.wav",
+  "added_on": {
+    "$date": "2024-03-30T07:16:28.454Z"
+  },
+  "audio_length": "1:38 mins",
+  "duration_sec": 98.11337868480726,
+  "filename": "prasad2.wav",
+  "speaker_name": "prasad2",
+  "current_user_name": "L5",
+  "Target_number": "9848166101"
+},
+{
+  "_id": {
+    "$oid": "660bf868ecd3b2bfa6d0ac6c"
+  },
+  "filepath": "TRAINING_FILES/KAgitha2.wav",
+  "added_on": {
+    "$date": "2024-04-02T12:22:00.806Z"
+  },
+  "audio_length": "1:04 mins",
+  "duration_sec": 64.25900226757369,
+  "filename": "KAgitha2.wav",
+  "speaker_name": "KAgitha2",
+  "current_user_name": "S1",
+  "Target_number": "8686267826"
+},
+{
+  "_id": {
+    "$oid": "660cfb90ecd3b2bfa6d0acdf"
+  },
+  "filepath": "TRAINING_FILES/ravi.wav",
+  "added_on": {
+    "$date": "2024-04-03T06:47:44.664Z"
+  },
+  "audio_length": "0:37 mins",
+  "duration_sec": 37.67578231292517,
+  "filename": "ravi.wav",
+  "speaker_name": "ravi",
+  "current_user_name": "E13",
+  "Target_number": "8712328637"
+},
+{
+  "_id": {
+    "$oid": "660bf5e2ecd3b2bfa6d0ac5e"
+  },
+  "filepath": "TRAINING_FILES/CHambala.wav",
+  "added_on": {
+    "$date": "2024-04-02T12:11:14.220Z"
+  },
+  "audio_length": "0:39 mins",
+  "duration_sec": 39.12952380952381,
+  "filename": "CHambala.wav",
+  "speaker_name": "CHambala",
+  "current_user_name": "S1",
+  "Target_number": "6281676863"
+},
+{
+  "_id": {
+    "$oid": "660e4a37ecd3b2bfa6d0add3"
+  },
+  "filepath": "TRAINING_FILES/ramalingareddy2.wav",
+  "added_on": {
+    "$date": "2024-04-04T06:35:35.274Z"
+  },
+  "audio_length": "1:20 mins",
+  "duration_sec": 80.42725623582767,
+  "filename": "ramalingareddy2.wav",
+  "speaker_name": "ramalingareddy2",
+  "current_user_name": "E5",
+  "Target_number": "9705531675"
+},
+{
+  "_id": {
+    "$oid": "6607f59fe17363cf917983fc"
+  },
+  "filepath": "TRAINING_FILES/kannaiah.wav",
+  "added_on": {
+    "$date": "2024-03-30T11:21:03.086Z"
+  },
+  "audio_length": "0:47 mins",
+  "duration_sec": 47.3875283446712,
+  "filename": "kannaiah.wav",
+  "speaker_name": "kannaiah",
+  "current_user_name": "L6",
+  "Target_number": "8125845138"
+},
+{
+  "_id": {
+    "$oid": "660d2b36ecd3b2bfa6d0ad60"
+  },
+  "filepath": "TRAINING_FILES/lakshmi5.wav",
+  "added_on": {
+    "$date": "2024-04-03T10:11:02.356Z"
+  },
+  "audio_length": "0:50 mins",
+  "duration_sec": 50.014376417233564,
+  "filename": "lakshmi5.wav",
+  "speaker_name": "lakshmi5",
+  "current_user_name": "E10",
+  "Target_number": "9494157032"
+},
+{
+  "_id": {
+    "$oid": "660e7c2043eb87e817e3ea1c"
+  },
+  "filepath": "TRAINING_FILES/venkatesh.wav",
+  "added_on": {
+    "$date": "2024-04-04T10:08:32.458Z"
+  },
+  "audio_length": "1:19 mins",
+  "duration_sec": 79.95678004535148,
+  "filename": "venkatesh.wav",
+  "speaker_name": "venkatesh",
+  "current_user_name": "L11",
+  "Target_number": "9704097155"
+},
+{
+  "_id": {
+    "$oid": "660fcc22948a7ac272f349ce"
+  },
+  "filepath": "TRAINING_FILES/Ramarao.wav",
+  "added_on": {
+    "$date": "2024-04-05T10:02:10.418Z"
+  },
+  "audio_length": "0:26 mins",
+  "duration_sec": 26.533786848072562,
+  "filename": "Ramarao.wav",
+  "speaker_name": "Ramarao",
+  "current_user_name": "E9",
+  "Target_number": "8639661958"
+},
+{
+  "_id": {
+    "$oid": "660fcce0948a7ac272f349d3"
+  },
+  "filepath": "TRAINING_FILES/Mallesh.wav",
+  "added_on": {
+    "$date": "2024-04-05T10:05:20.801Z"
+  },
+  "audio_length": "0:21 mins",
+  "duration_sec": 21.602902494331065,
+  "filename": "Mallesh.wav",
+  "speaker_name": "Mallesh",
+  "current_user_name": "E9",
+  "Target_number": "7981956817"
+},
+{
+  "_id": {
+    "$oid": "660fd2b1948a7ac272f349ec"
+  },
+  "filepath": "TRAINING_FILES/Jagan5.wav",
+  "added_on": {
+    "$date": "2024-04-05T10:30:09.274Z"
+  },
+  "audio_length": "1:41 mins",
+  "duration_sec": 101.23414965986395,
+  "filename": "Jagan5.wav",
+  "speaker_name": "Jagan5",
+  "current_user_name": "E8",
+  "Target_number": "7207352451"
+},
+{
+  "_id": {
+    "$oid": "6627a7140663daa155697ea1"
+  },
+  "filepath": "TRAINING_FILES/bandikiran.wav",
+  "added_on": {
+    "$date": "2024-04-23T12:18:28.382Z"
+  },
+  "audio_length": "1:00 mins",
+  "duration_sec": 60.613786848072564,
+  "filename": "bandikiran.wav",
+  "speaker_name": "bandikiran",
+  "current_user_name": "E6"
+},
+{
+  "_id": {
+    "$oid": "662649560663daa155697e68"
+  },
+  "filepath": "TRAINING_FILES/roshan3.wav",
+  "added_on": {
+    "$date": "2024-04-22T11:26:14.270Z"
+  },
+  "audio_length": "0:17 mins",
+  "duration_sec": 17.619637188208618,
+  "filename": "roshan3.wav",
+  "speaker_name": "roshan3",
+  "current_user_name": "E14",
+  "Target_number": "7828958082"
+},
+{
+  "_id": {
+    "$oid": "660d4d62ecd3b2bfa6d0ad92"
+  },
+  "filepath": "TRAINING_FILES/chippa.wav",
+  "added_on": {
+    "$date": "2024-04-03T12:36:50.320Z"
+  },
+  "audio_length": "1:24 mins",
+  "duration_sec": 84.20439909297052,
+  "filename": "chippa.wav",
+  "speaker_name": "chippa",
+  "current_user_name": "L4",
+  "Target_number": "9618961223"
+},
+{
+  "_id": {
+    "$oid": "6628ca1a0663daa155697f46"
+  },
+  "filepath": "TRAINING_FILES/ramarao.wav",
+  "added_on": {
+    "$date": "2024-04-24T09:00:10.369Z"
+  },
+  "audio_length": "0:38 mins",
+  "duration_sec": 38.49977324263038,
+  "filename": "ramarao.wav",
+  "speaker_name": "ramarao",
+  "current_user_name": "E4",
+  "Target_number": "6371983518"
+},
+{
+  "_id": {
+    "$oid": "6628c9f00663daa155697f42"
+  },
+  "filepath": "TRAINING_FILES/devireddy.wav",
+  "added_on": {
+    "$date": "2024-04-24T08:59:28.291Z"
+  },
+  "audio_length": "1:04 mins",
+  "duration_sec": 64.29437641723356,
+  "filename": "devireddy.wav",
+  "speaker_name": "devireddy",
+  "current_user_name": "E4",
+  "Target_number": "7780492734"
+},
+{
+  "_id": {
+    "$oid": "6627a6100663daa155697e9b"
+  },
+  "filepath": "TRAINING_FILES/autobaba.wav",
+  "added_on": {
+    "$date": "2024-04-23T12:14:08.033Z"
+  },
+  "audio_length": "1:12 mins",
+  "duration_sec": 72.9990022675737,
+  "filename": "autobaba.wav",
+  "speaker_name": "autobaba",
+  "current_user_name": "E6"
+},
+{
+  "_id": {
+    "$oid": "6627ae010663daa155697ef0"
+  },
+  "filepath": "TRAINING_FILES/satish1.wav",
+  "added_on": {
+    "$date": "2024-04-23T12:48:01.019Z"
+  },
+  "audio_length": "7:16 mins",
+  "duration_sec": 202.9821768707483,
+  "filename": "satish1.wav",
+  "speaker_name": "satish1",
+  "current_user_name": "E11",
+  "Target_number": "8555952220"
+},
+{
+  "_id": {
+    "$oid": "6627ac950663daa155697eda"
+  },
+  "filepath": "TRAINING_FILES/kranthi4.wav",
+  "added_on": {
+    "$date": "2024-04-23T12:41:57.172Z"
+  },
+  "audio_length": "3:20 mins",
+  "duration_sec": 107.24240362811791,
+  "filename": "kranthi4.wav",
+  "speaker_name": "kranthi4",
+  "current_user_name": "E11",
+  "Target_number": "8501905444"
+},
+{
+  "_id": {
+    "$oid": "664605bda7e592012fe80dce"
+  },
+  "filepath": "TRAINING_FILES/ug1.wav",
+  "added_on": {
+    "$date": "2024-05-16T13:10:21.890Z"
+  },
+  "audio_length": "0:33 mins",
+  "duration_sec": 33.79877551020408,
+  "filename": "ug1.wav",
+  "speaker_name": "ug1",
+  "current_user_name": "E15",
+  "Target_number": "9343943493"
+},
+{
+  "_id": {
+    "$oid": "6628cd500663daa155697f59"
+  },
+  "filepath": "TRAINING_FILES/MN1.wav",
+  "added_on": {
+    "$date": "2024-04-24T09:13:52.902Z"
+  },
+  "audio_length": "1:31 mins",
+  "duration_sec": 91.89628117913833,
+  "filename": "MN1.wav",
+  "speaker_name": "MN1",
+  "current_user_name": "S6"
+},
+{
+  "_id": {
+    "$oid": "66336597d53f3469dd2981ac"
+  },
+  "filepath": "TRAINING_FILES/Tikkasurya.wav",
+  "added_on": {
+    "$date": "2024-05-02T10:06:15.071Z"
+  },
+  "audio_length": "0:50 mins",
+  "duration_sec": 50.567891156462586,
+  "filename": "Tikkasurya.wav",
+  "speaker_name": "Tikkasurya",
+  "current_user_name": "L2",
+  "Target_number": "9704115884"
+},
+{
+  "_id": {
+    "$oid": "666c473a7bfef298d3453b59"
+  },
+  "filepath": "TRAINING_FILES/kesa.wav",
+  "added_on": {
+    "$date": "2024-06-14T13:35:54.624Z"
+  },
+  "audio_length": "4:20 mins",
+  "duration_sec": 260.01528344671203,
+  "filename": "kesa.wav",
+  "speaker_name": "kesa",
+  "current_user_name": "L1",
+  "Target_number": "7735007927"
+},
+{
+  "_id": {
+    "$oid": "66475339a7e592012fe80dd9"
+  },
+  "filepath": "TRAINING_FILES/somada.wav",
+  "added_on": {
+    "$date": "2024-05-17T12:53:13.246Z"
+  },
+  "audio_length": "0:36 mins",
+  "duration_sec": 36.58839002267574,
+  "filename": "somada.wav",
+  "speaker_name": "somada",
+  "current_user_name": "E15",
+  "Target_number": "9398363012"
+},
+{
+  "_id": {
+    "$oid": "6630ec08d53f3469dd298192"
+  },
+  "filepath": "TRAINING_FILES/Sudhakar.wav",
+  "added_on": {
+    "$date": "2024-04-30T13:03:04.373Z"
+  },
+  "audio_length": "2:08 mins",
+  "duration_sec": 128.90702947845804,
+  "filename": "Sudhakar.wav",
+  "speaker_name": "Sudhakar",
+  "current_user_name": "L2",
+  "Target_number": "7093737030"
+},
+{
+  "_id": {
+    "$oid": "66a496fe3c35a7f19e9deb00"
+  },
+  "filepath": "TRAINING_FILES/KUTHYTODONGA.wav",
+  "added_on": {
+    "$date": "2024-07-27T06:43:10.123Z"
+  },
+  "audio_length": "0:37 mins",
+  "duration_sec": 37.404761904761905,
+  "filename": "KUTHYTODONGA.wav",
+  "speaker_name": "KUTHYTODONGA",
+  "Target_number": null,
+  "current_user_name": "L3"
+},
+{
+  "_id": {
+    "$oid": "66a497273c35a7f19e9deb04"
+  },
+  "filepath": "TRAINING_FILES/SNEHALATHAANDMAYBEUG.wav",
+  "added_on": {
+    "$date": "2024-07-27T06:43:51.394Z"
+  },
+  "audio_length": "0:08 mins",
+  "duration_sec": 8.876009070294785,
+  "filename": "SNEHALATHAANDMAYBEUG.wav",
+  "speaker_name": "SNEHALATHAANDMAYBEUG",
+  "Target_number": null,
+  "current_user_name": "L3"
+},
+{
+  "_id": {
+    "$oid": "6691142bc9e4e8acde1f08ee"
+  },
+  "filepath": "TRAINING_FILES/SureshAnkadelli.wav",
+  "added_on": {
+    "$date": "2024-07-12T11:31:55.133Z"
+  },
+  "audio_length": "3:27 mins",
+  "duration_sec": 207.49591836734695,
+  "filename": "SureshAnkadelli.wav",
+  "speaker_name": "SureshAnkadelli",
+  "Target_number": null,
+  "current_user_name": "E3"
+},
+{
+  "_id": {
+    "$oid": "66a9f245235f27b83f1a7c75"
+  },
+  "filepath": "TRAINING_FILES/input.wav",
+  "added_on": {
+    "$date": "2024-07-31T08:13:57.200Z"
+  },
+  "audio_length": "0:49 mins",
+  "duration_sec": 49.49501133786848,
+  "filename": "input.wav",
+  "speaker_name": "input",
+  "Target_number": null,
+  "current_user_name": "vigor"
+},
+{
+  "_id": {
+    "$oid": "66926df7c9e4e8acde1f08fc"
+  },
+  "filepath": "TRAINING_FILES/parvathi1.wav",
+  "added_on": {
+    "$date": "2024-07-13T12:07:19.387Z"
+  },
+  "audio_length": "3:45 mins",
+  "duration_sec": 225.07895691609977,
+  "filename": "parvathi1.wav",
+  "speaker_name": "parvathi1",
+  "Target_number": null,
+  "current_user_name": "E2"
+},
+{
+  "_id": {
+    "$oid": "66263ea90663daa155697e28"
+  },
+  "filepath": "TRAINING_FILES/vasu1.wav",
+  "added_on": {
+    "$date": "2024-04-22T10:40:41.253Z"
+  },
+  "audio_length": "3:00 mins",
+  "duration_sec": 180.73600907029478,
+  "filename": "vasu1.wav",
+  "speaker_name": "vasu1",
+  "current_user_name": "E11",
+  "Target_number": "8790726260"
+},
+{
+  "_id": {
+    "$oid": "66a497683c35a7f19e9deb10"
+  },
+  "filepath": "TRAINING_FILES/prasanth1.wav",
+  "added_on": {
+    "$date": "2024-07-27T06:44:56.297Z"
+  },
+  "audio_length": "4:51 mins",
+  "duration_sec": 291.76503401360543,
+  "filename": "prasanth1.wav",
+  "speaker_name": "prasanth1",
+  "Target_number": null,
+  "current_user_name": "L3"
+}]

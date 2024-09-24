@@ -1,0 +1,22 @@
+we have create a Flask application that allows users to upload a JSON file, which will then be sent directly to the backend (without loading the frontend), we can utilize the following approach:
+
+    Frontend: Use HTML and JavaScript to send the JSON file directly to the Flask backend without loading it into memory on the frontend.
+    Backend: Flask will handle the file upload and parse the JSON content to update the MongoDB database.
+
+Steps:
+
+    Create a simple HTML frontend for file upload.
+    Use JavaScript to upload the file directly via fetch API.
+    On the Flask backend, use Flask-PyMongo to connect to a MongoDB database.
+    When a JSON file is uploaded, the Flask route will read and insert/update the data in MongoDB.
+
+How it works:
+
+    The user selects a JSON file.
+    When the "Upload" button is clicked, the file is sent directly to the backend using a POST request.
+    The file is uploaded via the fetch API, and no large file is loaded into the browser memory.
+
+Explanation for Managing Large Files:
+
+    The frontend sends the file directly to the backend using a POST request without fully loading the file in memory.
+    The backend processes the JSON file and updates MongoDB efficiently. You avoid any large file memory load issues by handling the file as a stream or saving it temporarily and processing it in chunks if needed

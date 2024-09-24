@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "65b8c799d150ed45d533a551"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/28-226192-3-27-20240127-144202.wav",
+  "speaker_found": [
+    "bujjibabu",
+    "sukhadev"
+  ],
+  "report": [
+    {
+      "speaker_name": "bujjibabu",
+      "confidence": 0.8190982591274173
+    },
+    {
+      "speaker_name": "sukhadev",
+      "confidence": 0.8043744758118031
+    }
+  ],
+  "upload_timestamp": "09:55:37 AM",
+  "timestamp": "2024-01-30 09:55:37.864018",
+  "status": "Processed",
+  "duraction": 12.18,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8d73ed150ed45d533a792"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/46-226197-2-21-20240127-142636.wav",
+  "speaker_found": [
+    "krishna"
+  ],
+  "report": [
+    {
+      "speaker_name": "krishna",
+      "confidence": 0.8026311035091812
+    }
+  ],
+  "upload_timestamp": "11:02:22 AM",
+  "timestamp": "2024-01-30 11:02:22.608484",
+  "status": "Processed",
+  "duraction": 11.76,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8d7644732c86c3e358dd9"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_29-01-2024/28-226192-2-08-20240129-123026.wav",
+  "speaker_found": [
+    "sandya"
+  ],
+  "report": [
+    {
+      "speaker_name": "sandya",
+      "confidence": 0.8106941901889674
+    }
+  ],
+  "upload_timestamp": "11:03:00 AM",
+  "timestamp": "2024-01-30 11:03:00.906413",
+  "status": "Processed",
+  "duraction": 126.86,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8d884d150ed45d533a7b7"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/28-226192-1-10-20240127-113054.wav",
+  "speaker_found": [
+    "krishna"
+  ],
+  "report": [
+    {
+      "speaker_name": "krishna",
+      "confidence": 0.8075631674632285
+    }
+  ],
+  "upload_timestamp": "11:07:48 AM",
+  "timestamp": "2024-01-30 11:07:48.917090",
+  "status": "Processed",
+  "duraction": 44.7,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8d6fed150ed45d533a785"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/48-226733-0-20-20240127-155654.wav",
+  "speaker_found": [
+    "krishna"
+  ],
+  "report": [
+    {
+      "speaker_name": "krishna",
+      "confidence": 0.8348363280296326
+    }
+  ],
+  "upload_timestamp": "11:01:18 AM",
+  "timestamp": "2024-01-30 11:01:18.454157",
+  "status": "Processed",
+  "duraction": 14.14,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8d8bcd150ed45d533a7c1"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/17-226578-0-29-20240127-141435.wav",
+  "speaker_found": [
+    "testing_sample1",
+    "danhu"
+  ],
+  "report": [
+    {
+      "speaker_name": "testing_sample1",
+      "confidence": 0.8249850074450175
+    },
+    {
+      "speaker_name": "danhu",
+      "confidence": 0.8249844412008921
+    }
+  ],
+  "upload_timestamp": "11:08:44 AM",
+  "timestamp": "2024-01-30 11:08:44.158623",
+  "status": "Processed",
+  "duraction": 40.08,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8d8dcd150ed45d533a7c8"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/28-226192-2-01-20240127-125429.wav",
+  "speaker_found": [
+    "ankala",
+    "bujjibabu"
+  ],
+  "report": [
+    {
+      "speaker_name": "ankala",
+      "confidence": 0.8209614691796241
+    },
+    {
+      "speaker_name": "bujjibabu",
+      "confidence": 0.8207197289962274
+    }
+  ],
+  "upload_timestamp": "11:09:16 AM",
+  "timestamp": "2024-01-30 11:09:16.634817",
+  "status": "Processed",
+  "duraction": 38.12,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8dc09d150ed45d533a83e"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/28-226192-0-22-20240127-161012.wav",
+  "speaker_found": [
+    "krishna"
+  ],
+  "report": [
+    {
+      "speaker_name": "krishna",
+      "confidence": 0.8035223162793493
+    }
+  ],
+  "upload_timestamp": "11:22:49 AM",
+  "timestamp": "2024-01-30 11:22:49.335131",
+  "status": "Processed",
+  "duraction": 40.56,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8d9d1d150ed45d533a7ef"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/18-226194-3-14-20240127-133350.wav",
+  "speaker_found": [
+    "suresh",
+    "babaji"
+  ],
+  "report": [
+    {
+      "speaker_name": "suresh",
+      "confidence": 0.8068151995539665
+    },
+    {
+      "speaker_name": "babaji",
+      "confidence": 0.8003313764929771
+    }
+  ],
+  "upload_timestamp": "11:13:21 AM",
+  "timestamp": "2024-01-30 11:13:21.713225",
+  "status": "Processed",
+  "duraction": 12.42,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8dac1d150ed45d533a80d"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/48-226733-0-27-20240127-164709.wav",
+  "speaker_found": [
+    "krishna"
+  ],
+  "report": [
+    {
+      "speaker_name": "krishna",
+      "confidence": 0.820742878317833
+    }
+  ],
+  "upload_timestamp": "11:17:21 AM",
+  "timestamp": "2024-01-30 11:17:21.143523",
+  "status": "Processed",
+  "duraction": 58.02,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8e2c2d150ed45d533a92c"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/48-226733-3-15-20240127-133246.wav",
+  "speaker_found": [
+    "krishna"
+  ],
+  "report": [
+    {
+      "speaker_name": "krishna",
+      "confidence": 0.8172879357268845
+    }
+  ],
+  "upload_timestamp": "11:51:30 AM",
+  "timestamp": "2024-01-30 11:51:30.934839",
+  "status": "Processed",
+  "duraction": 25.08,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "65b8e383d150ed45d533a949"
+  },
+  "date": "2024-01-30",
+  "filename": "demo_audios",
+  "filepath": "/app/wav_storage/wav_files_27-01-2024/48-226733-1-26-20240127-135033.wav",
+  "speaker_found": [
+    "hanuma",
+    "ankala"
+  ],
+  "report": [
+    {
+      "speaker_name": "hanuma",
+      "confidence": 0.8126953166897826
+    },
+    {
+      "speaker_name": "ankala",
+      "confidence": 0.8118490868532507
+    }
+  ],
+  "upload_timestamp": "11:54:43 AM",
+  "timestamp": "2024-01-30 11:54:43.639214",
+  "status": "Processed",
+  "duraction": 37.92,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+}]

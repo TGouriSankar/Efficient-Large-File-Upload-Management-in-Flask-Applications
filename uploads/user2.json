@@ -1,0 +1,2332 @@
+[{
+  "_id": {
+    "$oid": "659d8b2d78abc295dacd513f"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:36:37 PM",
+  "timestamp": "2024-01-09 23:36:37.066730",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "send"
+},
+{
+  "_id": {
+    "$oid": "659d8b3178abc295dacd5142"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:36:41 PM",
+  "timestamp": "2024-01-09 23:36:41.353024",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b3678abc295dacd5145"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:36:46 PM",
+  "timestamp": "2024-01-09 23:36:46.017533",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b3a78abc295dacd5148"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:36:50 PM",
+  "timestamp": "2024-01-09 23:36:50.505344",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b3f78abc295dacd514b"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:36:55 PM",
+  "timestamp": "2024-01-09 23:36:55.346985",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b4478abc295dacd514e"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:00 PM",
+  "timestamp": "2024-01-09 23:37:00.819420",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b4978abc295dacd5151"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:05 PM",
+  "timestamp": "2024-01-09 23:37:05.169244",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b4e78abc295dacd5154"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:10 PM",
+  "timestamp": "2024-01-09 23:37:10.093597",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b5278abc295dacd5157"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:14 PM",
+  "timestamp": "2024-01-09 23:37:14.617701",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b5778abc295dacd515a"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:19 PM",
+  "timestamp": "2024-01-09 23:37:19.588943",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b5c78abc295dacd515d"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:24 PM",
+  "timestamp": "2024-01-09 23:37:24.326313",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b6078abc295dacd5160"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:28 PM",
+  "timestamp": "2024-01-09 23:37:28.967381",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b6578abc295dacd5163"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:33 PM",
+  "timestamp": "2024-01-09 23:37:33.592930",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b6a78abc295dacd5166"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:38 PM",
+  "timestamp": "2024-01-09 23:37:38.381034",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b6f78abc295dacd5169"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:43 PM",
+  "timestamp": "2024-01-09 23:37:43.181590",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b7378abc295dacd516c"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:47 PM",
+  "timestamp": "2024-01-09 23:37:47.440019",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b7778abc295dacd516f"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:51 PM",
+  "timestamp": "2024-01-09 23:37:51.967359",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b7c78abc295dacd5172"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:37:56 PM",
+  "timestamp": "2024-01-09 23:37:56.357944",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b8078abc295dacd5175"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:00 PM",
+  "timestamp": "2024-01-09 23:38:00.942246",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b8578abc295dacd5178"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:05 PM",
+  "timestamp": "2024-01-09 23:38:05.274913",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b8a78abc295dacd517b"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:10 PM",
+  "timestamp": "2024-01-09 23:38:10.020964",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b8e78abc295dacd517e"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:14 PM",
+  "timestamp": "2024-01-09 23:38:14.329192",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b9278abc295dacd5181"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:18 PM",
+  "timestamp": "2024-01-09 23:38:18.695924",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b9778abc295dacd5184"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:23 PM",
+  "timestamp": "2024-01-09 23:38:23.192579",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8b9b78abc295dacd5187"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:27 PM",
+  "timestamp": "2024-01-09 23:38:27.763358",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ba078abc295dacd518a"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:32 PM",
+  "timestamp": "2024-01-09 23:38:32.253956",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ba478abc295dacd518d"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:36 PM",
+  "timestamp": "2024-01-09 23:38:36.727455",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ba978abc295dacd5190"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:41 PM",
+  "timestamp": "2024-01-09 23:38:41.388285",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bad78abc295dacd5193"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:45 PM",
+  "timestamp": "2024-01-09 23:38:45.488178",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bb278abc295dacd5196"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:50 PM",
+  "timestamp": "2024-01-09 23:38:50.116562",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bb678abc295dacd5199"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:54 PM",
+  "timestamp": "2024-01-09 23:38:54.386268",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bbb78abc295dacd519c"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:38:59 PM",
+  "timestamp": "2024-01-09 23:38:59.063753",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bbf78abc295dacd519f"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:03 PM",
+  "timestamp": "2024-01-09 23:39:03.757489",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bc478abc295dacd51a2"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:08 PM",
+  "timestamp": "2024-01-09 23:39:08.460124",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bc878abc295dacd51a5"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:12 PM",
+  "timestamp": "2024-01-09 23:39:12.923988",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bcd78abc295dacd51a8"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:17 PM",
+  "timestamp": "2024-01-09 23:39:17.559422",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bd278abc295dacd51ab"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:22 PM",
+  "timestamp": "2024-01-09 23:39:22.434850",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bd778abc295dacd51ae"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:27 PM",
+  "timestamp": "2024-01-09 23:39:27.223133",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bdb78abc295dacd51b1"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:31 PM",
+  "timestamp": "2024-01-09 23:39:31.446074",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8be078abc295dacd51b4"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:36 PM",
+  "timestamp": "2024-01-09 23:39:36.073124",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8be478abc295dacd51b7"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:40 PM",
+  "timestamp": "2024-01-09 23:39:40.857403",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8be978abc295dacd51ba"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:45 PM",
+  "timestamp": "2024-01-09 23:39:45.422574",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bee78abc295dacd51bd"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:50 PM",
+  "timestamp": "2024-01-09 23:39:50.111518",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bf278abc295dacd51c0"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:54 PM",
+  "timestamp": "2024-01-09 23:39:54.992587",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bf778abc295dacd51c3"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:39:59 PM",
+  "timestamp": "2024-01-09 23:39:59.792340",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8bfc78abc295dacd51c6"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:04 PM",
+  "timestamp": "2024-01-09 23:40:04.571549",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c0178abc295dacd51c9"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:09 PM",
+  "timestamp": "2024-01-09 23:40:09.235795",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c0678abc295dacd51cc"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:14 PM",
+  "timestamp": "2024-01-09 23:40:14.042322",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c0a78abc295dacd51cf"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:18 PM",
+  "timestamp": "2024-01-09 23:40:18.808285",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c0f78abc295dacd51d2"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:23 PM",
+  "timestamp": "2024-01-09 23:40:23.517415",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c1478abc295dacd51d5"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:28 PM",
+  "timestamp": "2024-01-09 23:40:28.367995",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c1978abc295dacd51d8"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:33 PM",
+  "timestamp": "2024-01-09 23:40:33.217651",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c1d78abc295dacd51db"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:37 PM",
+  "timestamp": "2024-01-09 23:40:37.967949",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c2278abc295dacd51de"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:42 PM",
+  "timestamp": "2024-01-09 23:40:42.543125",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c2778abc295dacd51e1"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:47 PM",
+  "timestamp": "2024-01-09 23:40:47.228408",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c2b78abc295dacd51e4"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:51 PM",
+  "timestamp": "2024-01-09 23:40:51.908935",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c3078abc295dacd51e7"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:40:56 PM",
+  "timestamp": "2024-01-09 23:40:56.728737",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c3578abc295dacd51ea"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:01 PM",
+  "timestamp": "2024-01-09 23:41:01.605845",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c3a78abc295dacd51ed"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:06 PM",
+  "timestamp": "2024-01-09 23:41:06.900951",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c3f78abc295dacd51f0"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:11 PM",
+  "timestamp": "2024-01-09 23:41:11.983636",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c4578abc295dacd51f3"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:17 PM",
+  "timestamp": "2024-01-09 23:41:17.097368",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c4a78abc295dacd51f6"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:22 PM",
+  "timestamp": "2024-01-09 23:41:22.072097",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c4e78abc295dacd51f9"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:26 PM",
+  "timestamp": "2024-01-09 23:41:26.555022",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c5278abc295dacd51fc"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:30 PM",
+  "timestamp": "2024-01-09 23:41:30.774009",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c5778abc295dacd51ff"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:35 PM",
+  "timestamp": "2024-01-09 23:41:35.471535",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c5c78abc295dacd5202"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:40 PM",
+  "timestamp": "2024-01-09 23:41:40.360681",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c6178abc295dacd5205"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:45 PM",
+  "timestamp": "2024-01-09 23:41:45.291186",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c6678abc295dacd5208"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:50 PM",
+  "timestamp": "2024-01-09 23:41:50.015364",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c6a78abc295dacd520b"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:54 PM",
+  "timestamp": "2024-01-09 23:41:54.681818",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c6f78abc295dacd520e"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:41:59 PM",
+  "timestamp": "2024-01-09 23:41:59.383917",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c7478abc295dacd5211"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:04 PM",
+  "timestamp": "2024-01-09 23:42:04.139011",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c7878abc295dacd5214"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:08 PM",
+  "timestamp": "2024-01-09 23:42:08.625018",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c7d78abc295dacd5217"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:13 PM",
+  "timestamp": "2024-01-09 23:42:13.270953",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c8278abc295dacd521a"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:18 PM",
+  "timestamp": "2024-01-09 23:42:18.172399",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c8778abc295dacd521d"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:23 PM",
+  "timestamp": "2024-01-09 23:42:23.054676",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c8b78abc295dacd5220"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:27 PM",
+  "timestamp": "2024-01-09 23:42:27.902290",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c9078abc295dacd5223"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:32 PM",
+  "timestamp": "2024-01-09 23:42:32.359967",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c9478abc295dacd5226"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:36 PM",
+  "timestamp": "2024-01-09 23:42:36.891469",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c9978abc295dacd5229"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:41 PM",
+  "timestamp": "2024-01-09 23:42:41.206926",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8c9d78abc295dacd522c"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:45 PM",
+  "timestamp": "2024-01-09 23:42:45.763097",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ca278abc295dacd522f"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:50 PM",
+  "timestamp": "2024-01-09 23:42:50.614141",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ca778abc295dacd5232"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:42:55 PM",
+  "timestamp": "2024-01-09 23:42:55.268404",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cac78abc295dacd5235"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:00 PM",
+  "timestamp": "2024-01-09 23:43:00.083984",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cb078abc295dacd5238"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:04 PM",
+  "timestamp": "2024-01-09 23:43:04.892244",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cb578abc295dacd523b"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:09 PM",
+  "timestamp": "2024-01-09 23:43:09.806613",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cba78abc295dacd523e"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:14 PM",
+  "timestamp": "2024-01-09 23:43:14.438588",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cbe78abc295dacd5241"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:18 PM",
+  "timestamp": "2024-01-09 23:43:18.825818",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cc378abc295dacd5244"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:23 PM",
+  "timestamp": "2024-01-09 23:43:23.226274",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cc778abc295dacd5247"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:27 PM",
+  "timestamp": "2024-01-09 23:43:27.949966",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ccc78abc295dacd524a"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:32 PM",
+  "timestamp": "2024-01-09 23:43:32.877664",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cd178abc295dacd524d"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:37 PM",
+  "timestamp": "2024-01-09 23:43:37.427453",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cd678abc295dacd5250"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:42 PM",
+  "timestamp": "2024-01-09 23:43:42.170891",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cda78abc295dacd5253"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:46 PM",
+  "timestamp": "2024-01-09 23:43:46.309610",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cdf78abc295dacd5256"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:50 PM",
+  "timestamp": "2024-01-09 23:43:51.001852",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ce378abc295dacd5259"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:43:55 PM",
+  "timestamp": "2024-01-09 23:43:55.573986",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ce878abc295dacd525c"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:00 PM",
+  "timestamp": "2024-01-09 23:44:00.326959",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8ced78abc295dacd525f"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:05 PM",
+  "timestamp": "2024-01-09 23:44:05.338025",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cf178abc295dacd5262"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:09 PM",
+  "timestamp": "2024-01-09 23:44:09.774057",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cf678abc295dacd5265"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:14 PM",
+  "timestamp": "2024-01-09 23:44:14.406083",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cfa78abc295dacd5268"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:18 PM",
+  "timestamp": "2024-01-09 23:44:18.844157",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8cff78abc295dacd526b"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:23 PM",
+  "timestamp": "2024-01-09 23:44:23.730421",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8d0478abc295dacd526e"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:28 PM",
+  "timestamp": "2024-01-09 23:44:28.347710",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8d0878abc295dacd5271"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:32 PM",
+  "timestamp": "2024-01-09 23:44:32.854088",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8d0d78abc295dacd5274"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:37 PM",
+  "timestamp": "2024-01-09 23:44:37.489407",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8d1178abc295dacd5277"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:41 PM",
+  "timestamp": "2024-01-09 23:44:41.970718",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+},
+{
+  "_id": {
+    "$oid": "659d8d1678abc295dacd527a"
+  },
+  "date": "2024-01-09",
+  "filename": "14-226735-1-07-20230824-123409.wav",
+  "speaker_found": [
+    "t4"
+  ],
+  "report": [
+    {
+      "speaker_name": "t4",
+      "confidence": 0.691692174022848
+    }
+  ],
+  "upload_timestamp": "11:44:46 PM",
+  "timestamp": "2024-01-09 23:44:46.999131",
+  "status": "Processed",
+  "duraction": 17.84,
+  "Notification": 1,
+  "Notifaction_status": "unsend"
+}]
